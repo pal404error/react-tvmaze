@@ -1,0 +1,9 @@
+{
+				items.map((item) => (
+				<ol key = { item.id } >
+					User_Name: { item.show.type },
+					Full_Name: { item.show.name },
+					User_Email: { item.show.summary }
+					</ol>
+				))
+			}
