@@ -2,7 +2,7 @@
 
 # Screenshot
 
-![](https://i.ibb.co/0VnT921/Tv-Maze.jpg)
+![](https://i.ibb.co/vDnv9Yv/Tv-Maze1231232.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
